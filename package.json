@@ -1,0 +1,14 @@
+{
+  "name": "cesar_cipher",
+  "version": "1.0.0",
+  "description": "cesarCipher",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "antoineganem",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
